@@ -124,10 +124,9 @@
       "zh-cn": "阅读从Iliscloud获得的数据"
     },
     "authors": [
-      {
-        "name": "Trixx",
-        "email": "trixxdev034@gmail.com"
-      }
+      "Trixx <trixxdev034@gmail.com>",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
+      "mcm1957 <mcm57@gmx.at>"
     ],
     "keywords": ["Solis", "soliscloud"],
     "license": "MIT",
@@ -135,29 +134,23 @@
     "main": "build/main.js",
     "icon": "solis.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/Trixx34/ioBroker.soliscloud/main/admin/solis.png",
-    "readme": "https://github.com/Trixx34/ioBroker.soliscloud#readme",
+    "extIcon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.soliscloud/main/admin/solis.png",
+    "readme": "https://github.com/iobroker-community-adapters/ioBroker.soliscloud#readme",
     "loglevel": "info",
     "mode": "daemon",
     "type": "energy",
-    "plugins": {
-      "sentry": {
-        "dsn": "https://82658ad520edff305104b0c674287664@o4506500843438080.ingest.sentry.io/4506500845010944"
-      }
-    },
     "compact": true,
     "adminUI": {
       "config": "json"
     },
-    "supportCustoms": false,
     "dependencies": [
       {
-        "js-controller": ">=3.3.22"
+        "js-controller": ">=6.0.11"
       }
     ],
     "globalDependencies": [
       {
-        "admin": ">=5.1.13"
+        "admin": ">=7.6.17"
       }
     ]
   },
