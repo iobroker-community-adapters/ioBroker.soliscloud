@@ -2,8 +2,6 @@
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.soliscloud)](https://www.npmjs.com/package/iobroker.soliscloud) [![Known vulnerabilities](https://snyk.io/test/github/Trixx34/ioBroker.soliscloud/badge.svg)]
 
-**This adapter uses Sentry libraries to automatically report exceptions and code errors to the developers.** For more details and for information how to disable the error reporting see [Sentry-Plugin Documentation](https://github.com/ioBroker/plugin-sentry#plugin-sentry)!
-
 ## soliscloud adapter for IOBroker
 
 This integration is based on this home-assistant integration:
@@ -31,12 +29,10 @@ To request additional values, you can either:
 
 The API returns other values that can be added, but at the moment these are sufficient for my needs.
 
-## Current state
 
-This adapter is still very new, but tested and seemingly stable.
-I'm not a professional developer. Use at your own risk.
+## Credits
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg)](https://www.buymeacoffee.com/trixxdev)
+This adapter would not have been possible without the great work of Trixx <trixxdev034@gmail.com>, who created previous releases of this adapter.
 
 ## Changelog
 ### 1.4.2 (2024-01-24)
@@ -158,7 +154,8 @@ I'm not a professional developer. Use at your own risk.
 
 MIT License
 
-"Copyright (c) 2024 Trixx trixxdev034@gmail.com"
+Copyright (c) 2025 iobroker-community-adapters <iobroker-community-adapters@gmx.de>  
+Copyright (c) 2024 Trixx trixxdev034@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
