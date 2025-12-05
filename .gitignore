@@ -27,3 +27,6 @@ admin/i18n/*/flat.txt
 #test files
 /src/lib/apiHelper.ts
 /src/main.test.ts
+
+#ignore .commitinfo created by ioBroker release script
+.commitinfo
