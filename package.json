@@ -35,7 +35,7 @@
     "@tsconfig/node14": "^14.1.8",
     "@types/node": "^24.10.1",
     "@typescript-eslint/eslint-plugin": "^7.11.0",
-    "@typescript-eslint/parser": "^7.1.1",
+    "@typescript-eslint/parser": "^8.54.0",
     "axios": "^1.13.4",
     "eslint": "^8.57.0",
     "rimraf": "^6.1.2",
