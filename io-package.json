@@ -128,7 +128,10 @@
       "iobroker-community-adapters <iobroker-community-adapters@gmx.de>",
       "mcm1957 <mcm57@gmx.at>"
     ],
-    "keywords": ["Solis", "soliscloud"],
+    "keywords": [
+      "Solis",
+      "soliscloud"
+    ],
     "license": "MIT",
     "platform": "Javascript/Node.js",
     "main": "build/main.js",
@@ -150,14 +153,18 @@
     ],
     "globalDependencies": [
       {
-        "admin": ">=7.6.17"
+        "admin": ">=7.7.22"
       }
     ]
   },
   "native": {},
   "i18n": true,
-  "encryptedNative": ["apiKey"],
-  "protectedNative": ["apiKey"],
+  "encryptedNative": [
+    "apiKey"
+  ],
+  "protectedNative": [
+    "apiKey"
+  ],
   "objects": [],
   "instanceObjects": []
 }

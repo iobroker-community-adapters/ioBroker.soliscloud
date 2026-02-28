@@ -35,6 +35,10 @@ The API returns other values that can be added, but at the moment these are suff
 This adapter would not have been possible without the great work of Trixx <trixxdev034@gmail.com>, who created previous releases of this adapter.
 
 ## Changelog
+
+### **WORK IN PROGRESS**
+- (copilot) Adapter requires admin >= 7.7.22 now
+
 ### 1.4.2 (2024-01-24)
 
 - Adjustment in logging.
