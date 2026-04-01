@@ -1,5 +1,5 @@
 import axios from "axios";
-import crypto from "crypto";
+import crypto from "node:crypto";
 
 const API_BASE_URL = "https://www.soliscloud.com:13333";
 const timeoutMs = 7000;
