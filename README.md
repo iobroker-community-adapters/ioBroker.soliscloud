@@ -154,6 +154,8 @@ This adapter would not have been possible without the great work of Trixx <trixx
 - various updates to comply with publishing rules
 - Initial release!
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 MIT License
