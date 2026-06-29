@@ -37,6 +37,7 @@ This adapter would not have been possible without the great work of Trixx <trixx
 ## Changelog
 
 ### **WORK IN PROGRESS**
+- (copilot) Adapter requires node.js >= 22 now
 - (copilot) Adapter requires admin >= 7.7.22 now
 
 ### 1.4.2 (2024-01-24)
